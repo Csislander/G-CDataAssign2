@@ -1,6 +1,6 @@
 ##Codebook
 
-Variables of "tidy":
+Variables of "tidydata.txt":
 
 "tbodyaccmeanx" - mean of mean body linear acceleration on the x axis                  
 "tbodyaccmeany" - mean of mean body linear acceleration on the y axis                    
